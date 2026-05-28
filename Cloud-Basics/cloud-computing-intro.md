@@ -16,7 +16,7 @@ Think of it like electricity - you don't build your own power plant at home, you
 
 **AWS** stands for **Amazon Web Services**. It is the cloud platform made by Amazon and it currently the largest cloud provider in the world. It offers more than **200+ services** including storage, servers, databases, AI tools and many more services. Many companies like Netflix, Airbnb uses AWS to run their systems.
 
-Today I created my AWS free account. You can use type **AWS account creation** in any browser and it will take you the page. During the sign-up process it asks for debit or credit card but don't worry it will not charge you as long as you stay within the free tier limits.
+Today I created my AWS free account. You can use type **AWS account creation** in any br and it will take you the page. During the sign-up process it asks for debit or credit card but don't worry it will not charge you as long as you stay within the free tier limits.
 
 The free tier gives you access to many services for 6 months without any cost which is great for learning and building projects.
 
