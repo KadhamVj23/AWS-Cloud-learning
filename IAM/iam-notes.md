@@ -1,4 +1,3 @@
-````md
 # AWS IAM (Identity and Access Management)
 
 ## Introduction
@@ -342,6 +341,3 @@ IAM is one of the most important AWS services because it controls security and a
 Hope this article helped you understand IAM clearly.
 
 See you in the next AWS service article! 🥳
-
-```
-```
