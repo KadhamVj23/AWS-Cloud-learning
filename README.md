@@ -16,6 +16,10 @@ This repoitory currently consists of:
 - EC2
 
 ## Blog Articles
-1. [Cloud Basics Article](https://my-cloud-journey.hashnode.dev/what-is-cloud-computing-and-aws)
+1. [Cloud Basics Article](https://dev.to/kadhamvj23/what-is-cloud-computing-and-aws-9)
 
-2. [IAM Article](https://my-cloud-journey.hashnode.dev/aws-identity-and-access-management-explained-for-beginners)
+2. [IAM Article](https://dev.to/kadhamvj23/aws-identity-and-access-management-explained-for-beginners-cn7)
+
+3. [EC2 Beginner Guide: Launch Your First AWS Instance](https://dev.to/kadhamvj23/ec2-beginner-guide-launch-your-first-aws-instance-5gjp)
+
+4. [What is VPC? Explained for Beginners](https://dev.to/kadhamvj23/what-is-vpc-explained-for-beginners-359)
