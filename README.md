@@ -14,6 +14,9 @@ This repoitory currently consists of:
 - Cloud Computing Basics
 - IAM
 - EC2
+- Introduction to VPC
+- Public vs Private Subnets
+- Internet Gateway and Route table
 
 ## Blog Articles
 1. [Cloud Basics Article](https://dev.to/kadhamvj23/what-is-cloud-computing-and-aws-9)
@@ -23,3 +26,7 @@ This repoitory currently consists of:
 3. [EC2 Beginner Guide: Launch Your First AWS Instance](https://dev.to/kadhamvj23/ec2-beginner-guide-launch-your-first-aws-instance-5gjp)
 
 4. [What is VPC? Explained for Beginners](https://dev.to/kadhamvj23/what-is-vpc-explained-for-beginners-359)
+
+5. [Public vs Private Subnets in AWS Explained for Beginners](https://dev.to/kadhamvj23/public-vs-private-subnets-in-aws-explained-for-beginners-331e)
+
+6. [AWS Internet Gateway and Route Tables Explained for Beginners](https://dev.to/kadhamvj23/aws-internet-gateway-and-route-tables-explained-for-beginners-1c27) 
