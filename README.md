@@ -29,4 +29,6 @@ This repoitory currently consists of:
 
 5. [Public vs Private Subnets in AWS Explained for Beginners](https://dev.to/kadhamvj23/public-vs-private-subnets-in-aws-explained-for-beginners-331e)
 
-6. [AWS Internet Gateway and Route Tables Explained for Beginners](https://dev.to/kadhamvj23/aws-internet-gateway-and-route-tables-explained-for-beginners-1c27) 
+6. [AWS Internet Gateway and Route Tables Explained for Beginners](https://dev.to/kadhamvj23/aws-internet-gateway-and-route-tables-explained-for-beginners-1c27)
+
+7. [Security Groups vs NACLs Explained for Beginners](https://dev.to/kadhamvj23/security-groups-vs-nacls-explained-for-beginners-33n3)
