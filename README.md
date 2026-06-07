@@ -17,6 +17,8 @@ This repoitory currently consists of:
 - Introduction to VPC
 - Public vs Private Subnets
 - Internet Gateway and Route table
+- Security Groups vs NACLs
+- Hands-On NACL and Security Groups
 
 ## Blog Articles
 1. [Cloud Basics Article](https://dev.to/kadhamvj23/what-is-cloud-computing-and-aws-9)
