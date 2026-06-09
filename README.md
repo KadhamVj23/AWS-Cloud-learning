@@ -7,7 +7,9 @@ I am currently learning AWS Cloud and documenting everything I learn about AWS h
 
 This repoitory currently consists of:
 - AWS Notes
-- Hands0on Labs
+- Hands-On Labs
+- Diagrams
+- Screenshots of Practice
 
 ## Topics Covered
 
@@ -19,6 +21,7 @@ This repoitory currently consists of:
 - Internet Gateway and Route table
 - Security Groups vs NACLs
 - Hands-On NACL and Security Groups
+- Understanding AWS Route 53 and DNS for Beginners
 
 ## Blog Articles
 1. [Cloud Basics Article](https://dev.to/kadhamvj23/what-is-cloud-computing-and-aws-9)
@@ -34,3 +37,5 @@ This repoitory currently consists of:
 6. [AWS Internet Gateway and Route Tables Explained for Beginners](https://dev.to/kadhamvj23/aws-internet-gateway-and-route-tables-explained-for-beginners-1c27)
 
 7. [Security Groups vs NACLs Explained for Beginners](https://dev.to/kadhamvj23/security-groups-vs-nacls-explained-for-beginners-33n3)
+
+8. [Understanding AWS Route 53 and DNS for Beginners](https://dev.to/kadhamvj23/understanding-dns-and-aws-route-53-for-beginners-3931)
