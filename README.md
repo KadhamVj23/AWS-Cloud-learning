@@ -22,6 +22,8 @@ This repoitory currently consists of:
 - Security Groups vs NACLs
 - Hands-On NACL and Security Groups
 - Understanding AWS Route 53 and DNS for Beginners
+- Project 1: AWS Production VPC Architecture Project Using EC2, ALB, Auto Scaling Group and Bastion Host
+
 
 ## Blog Articles
 1. [Cloud Basics Article](https://dev.to/kadhamvj23/what-is-cloud-computing-and-aws-9)
