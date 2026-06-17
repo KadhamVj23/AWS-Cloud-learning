@@ -11,7 +11,7 @@ This repoitory currently consists of:
 - Diagrams
 - Screenshots of Practice
 
-## Topics Covered
+## Topics wise Covered
 
 - Cloud Computing Basics
 - IAM
@@ -23,6 +23,7 @@ This repoitory currently consists of:
 - Hands-On NACL and Security Groups
 - Understanding AWS Route 53 and DNS for Beginners
 - Project 1: AWS Production VPC Architecture Project Using EC2, ALB, Auto Scaling Group and Bastion Host
+- AWS S3 Basics for Beginners
 
 
 ## Blog Articles
@@ -41,3 +42,7 @@ This repoitory currently consists of:
 7. [Security Groups vs NACLs Explained for Beginners](https://dev.to/kadhamvj23/security-groups-vs-nacls-explained-for-beginners-33n3)
 
 8. [Understanding AWS Route 53 and DNS for Beginners](https://dev.to/kadhamvj23/understanding-dns-and-aws-route-53-for-beginners-3931)
+
+9. [AWS VPC Project: Build a Production-Ready Architecture with EC2, ALB, ASG & Bastion Host](https://dev.to/kadhamvj23/aws-vpc-project-build-a-production-ready-architecture-with-ec2-alb-asg-bastion-host-57i2)
+
+10. [AWS S3 Basics for Beginners](https://dev.to/kadhamvj23/aws-s3-basics-for-beginners-3k8m)
