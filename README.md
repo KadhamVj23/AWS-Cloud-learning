@@ -24,6 +24,7 @@ This repoitory currently consists of:
 - Understanding AWS Route 53 and DNS for Beginners
 - Project 1: AWS Production VPC Architecture Project Using EC2, ALB, Auto Scaling Group and Bastion Host
 - AWS S3 Basics for Beginners
+- AWS S3 Hands-On Project | Buckets, Versioning, Permissions and Static Website Hosting
 
 
 ## Blog Articles
@@ -46,3 +47,5 @@ This repoitory currently consists of:
 9. [AWS VPC Project: Build a Production-Ready Architecture with EC2, ALB, ASG & Bastion Host](https://dev.to/kadhamvj23/aws-vpc-project-build-a-production-ready-architecture-with-ec2-alb-asg-bastion-host-57i2)
 
 10. [AWS S3 Basics for Beginners](https://dev.to/kadhamvj23/aws-s3-basics-for-beginners-3k8m)
+
+11. [AWS S3 Hands-On Project | Buckets, Versioning, Permissions and Static Website Hosting](https://dev.to/kadhamvj23/aws-s3-hands-on-project-buckets-versioning-permissions-and-static-website-hosting-4p2d)
