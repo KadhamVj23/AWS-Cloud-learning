@@ -28,6 +28,7 @@ This repoitory currently consists of:
 
 
 ## Blog Articles
+
 1. [Cloud Basics Article](https://dev.to/kadhamvj23/what-is-cloud-computing-and-aws-9)
 
 2. [IAM Article](https://dev.to/kadhamvj23/aws-identity-and-access-management-explained-for-beginners-cn7)
@@ -42,10 +43,12 @@ This repoitory currently consists of:
 
 7. [Security Groups vs NACLs Explained for Beginners](https://dev.to/kadhamvj23/security-groups-vs-nacls-explained-for-beginners-33n3)
 
-8. [Understanding AWS Route 53 and DNS for Beginners](https://dev.to/kadhamvj23/understanding-dns-and-aws-route-53-for-beginners-3931)
+8. [Hands-On: Understanding Security Groups and NACLs in AWS](https://dev.to/kadhamvj23/hands-on-understanding-security-groups-and-nacls-in-aws-5fe) 
 
-9. [AWS VPC Project: Build a Production-Ready Architecture with EC2, ALB, ASG & Bastion Host](https://dev.to/kadhamvj23/aws-vpc-project-build-a-production-ready-architecture-with-ec2-alb-asg-bastion-host-57i2)
+9. [Understanding AWS Route 53 and DNS for Beginners](https://dev.to/kadhamvj23/understanding-dns-and-aws-route-53-for-beginners-3931)
 
-10. [AWS S3 Basics for Beginners](https://dev.to/kadhamvj23/aws-s3-basics-for-beginners-3k8m)
+10. [AWS VPC Project: Build a Production-Ready Architecture with EC2, ALB, ASG & Bastion Host](https://dev.to/kadhamvj23/aws-vpc-project-build-a-production-ready-architecture-with-ec2-alb-asg-bastion-host-57i2)
 
-11. [AWS S3 Hands-On Project | Buckets, Versioning, Permissions and Static Website Hosting](https://dev.to/kadhamvj23/aws-s3-hands-on-project-buckets-versioning-permissions-and-static-website-hosting-4p2d)
+11. [AWS S3 Basics for Beginners](https://dev.to/kadhamvj23/aws-s3-basics-for-beginners-3k8m)
+
+12. [AWS S3 Hands-On Project | Buckets, Versioning, Permissions and Static Website Hosting](https://dev.to/kadhamvj23/aws-s3-hands-on-project-buckets-versioning-permissions-and-static-website-hosting-4p2d)
