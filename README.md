@@ -25,6 +25,7 @@ This repoitory currently consists of:
 - Project 1: AWS Production VPC Architecture Project Using EC2, ALB, Auto Scaling Group and Bastion Host
 - AWS S3 Basics for Beginners
 - AWS S3 Hands-On Project | Buckets, Versioning, Permissions and Static Website Hosting
+- AWS CLI for Beginners | Automating AWS without using the Console
 
 
 ## Blog Articles
@@ -52,3 +53,5 @@ This repoitory currently consists of:
 11. [AWS S3 Basics for Beginners](https://dev.to/kadhamvj23/aws-s3-basics-for-beginners-3k8m)
 
 12. [AWS S3 Hands-On Project | Buckets, Versioning, Permissions and Static Website Hosting](https://dev.to/kadhamvj23/aws-s3-hands-on-project-buckets-versioning-permissions-and-static-website-hosting-4p2d)
+
+13. [AWS CLI for Beginners | Automating AWS without using the Console](https://dev.to/kadhamvj23/aws-cli-for-beginners-automating-aws-without-using-the-console-5h9n)
