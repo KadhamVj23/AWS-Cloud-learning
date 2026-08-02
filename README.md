@@ -58,3 +58,11 @@ This repoitory currently consists of:
 13. [AWS CLI for Beginners | Automating AWS without using the Console](https://dev.to/kadhamvj23/aws-cli-for-beginners-automating-aws-without-using-the-console-5h9n)
 
 14. [AWS CloudFormation Explained for Beginners | Infrastructure as Code (IaC) Made Simple](https://dev.to/kadhamvj23/aws-cloudformation-explained-for-beginners-infrastructure-as-code-iac-made-simple-pkp)
+
+15. [AWS CloudFormation Hands-on | Build Your First Infrastructure Using YAML](https://dev.to/kadhamvj23/aws-cloudformation-hands-on-build-your-first-infrastructure-using-yaml-1n0)
+
+16. [AWS CI/CD Explained for Beginners | PART 1 | Understanding AWS CodeCommit](https://dev.to/kadhamvj23/aws-cicd-explained-for-beginners-part-1-understanding-aws-codecommit-1f47)
+
+17. [AWS CodePipeline Explained for Beginners | Understanding CI/CD on AWS](https://dev.to/kadhamvj23/aws-codepipeline-explained-for-beginners-understanding-cicd-on-aws-okk)
+
+18. [Preparing for AWS CI/CD Hands-On Project - Prerequisites](https://dev.to/kadhamvj23/preparing-for-aws-cicd-hands-on-project-prerequisites-3h5o)
