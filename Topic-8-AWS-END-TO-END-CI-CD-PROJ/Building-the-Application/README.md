@@ -20,7 +20,12 @@ AWS END-TOEND-CI-CD-PROJ/
 ├── 03-Continuous-Deployment/
 │      README.md
 │
+├── img
+│      
+│
 └── Cloud-Notes-application/
+
+![Creating folders](../img/create-folders.png)
 
 
 Purpose of each folder:
@@ -36,6 +41,9 @@ Purpose of each folder:
 Cloud-Notes-application/
 - This contains the actual project source code and deployment files used throughout the project.
 - New files will ve added here as we progress.
+
+img/
+- This will be used to store the images of the entire project.
 
 Note:
 Do not create all application files now.
@@ -456,6 +464,9 @@ Inside the `Cloud-Notes-Application` folder, create a new file names:
 Dockerfile
 ```
 
+![Create Dockerfile](../img/cloud-notes-app-folders.png)
+
+
 > **Important:** The file name must be exactly `Dockerfile` with no file extension.
 
 ---
@@ -585,3 +596,51 @@ Cloud-Notes-Application/
 Commit the changes and push them to your GitHub repository.
 
 After pushing, verify that all files appear correctly in the repository.
+
+---
+
+## Step 10: Project Summary
+
+In this part of the project, we prepared the application that will be used throughout th CI/CD pipeline.
+
+We:
+
+- Created the project folder structure.
+- Build a simple Flask application.
+- Created the `requirements.txt` file
+- Learned the fundamentals of Docker.
+- Created a Dockerfile for the application.
+- Organized the project for the future CI/CD stages.
+Uploaded the project to GitHub.
+
+---
+
+## Key Takeaways
+
+- A Flask application gives us a simple web application to deploy.
+- `requirements.txt` ensures required Python packages are installed consistently.
+- A Dockerfile defines how the Docker image should be built.
+- Docker packages the application together with its dependencies.
+- Docker Hub stores Docker images.
+- GitHub acts as the source repository for AWS CodeBuild.
+- Building the application in AWS allows us to continue even when Docker Desktop cannot run locally.
+
+---
+
+# What's Next?
+
+Our application is now ready.
+
+In the next part of this project, we will begin the Continuous Integration (CI) phase using AWS CodeBuild.
+
+We will:
+
+- Create a CodeBuild project.
+- Connect GitHub as the source repository.
+- Create an IAM service role.
+- Understand every CodeBuild setting.
+- Create and explain the `buildspec.yml` file.
+- Build a Docker image in AWS.
+- Push the image to Docker Hub.
+
+By the end of Part 2, every commit pushed to GitHub will automatically build a Docker image in AWS.
